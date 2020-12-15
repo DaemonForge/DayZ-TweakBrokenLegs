@@ -1,4 +1,5 @@
-modded class MorphineMdfr: ModifierBase {	
+modded class MorphineMdfr : ModifierBase {
+	
 	const int LIFETIME = TweakBLCfg.MorphineMdfr_LIFETIME;
 	
 	override void OnActivate(PlayerBase player)

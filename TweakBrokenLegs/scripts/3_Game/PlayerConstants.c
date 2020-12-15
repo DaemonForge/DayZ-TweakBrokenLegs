@@ -18,4 +18,5 @@ modded class PlayerConstants
 	static const float	BROKEN_LEGS_HIGH_HEALTH_THRESHOLD = TweakBLCfg.BROKEN_LEGS_HIGH_HEALTH_THRESHOLD;		//Amount of health OVER which legs have "low health"
 	//static const int	BROKEN_LEGS_FALL_STEP_COUNT = 10;			//Number of steps before falling over
 	static const float	BROKEN_LEGS_STAND_SHOCK = TweakBLCfg.BROKEN_LEGS_STAND_SHOCK;				//Shock dealt when standing with broken legs
+	static const float	BROKEN_LEGS_ROLL_SHOCK = TweakBLCfg.BROKEN_LEGS_ROLL_SHOCK;				//Shock dealt when rolling with broken legs
 }

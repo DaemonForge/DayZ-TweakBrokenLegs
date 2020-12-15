@@ -12,6 +12,7 @@ class TweakBLCfg
 	static const float BROKEN_LEGS_LOW_HEALTH_THRESHOLD = 25; 	//Amount of health BELOW which legs have "low health"
 	static const float BROKEN_LEGS_HIGH_HEALTH_THRESHOLD = 75; 	//Amount of health OVER which legs have "low health"
 	static const float BROKEN_LEGS_STAND_SHOCK 			= 0;	//Shock dealt when standing with broken legs
+	static const float BROKEN_LEGS_ROLL_SHOCK			= 4; //Shock dealt when rolling with broken legs
 	static const float FD_DMG_FROM_HEIGHT 				= 3.0;	//!< damage will not be taken into account bellow this HeightToDamage
 	static const float FD_MAX_DMG_AT_HEIGHT 			= 15;	//!< height where player gets 100% damage
 	static const float FD_MAX_BREAK_LEG_HEIGHT 			= 12;	//!< height where legs break most of the time
